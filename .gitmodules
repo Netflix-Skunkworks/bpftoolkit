@@ -1,0 +1,9 @@
+[submodule "submodules/bcc"]
+	path = submodules/bcc
+	url = https://github.com/iovisor/bcc.git
+[submodule "submodules/bpftrace"]
+	path = submodules/bpftrace
+	url = https://github.com/iovisor/bpftrace.git
+[submodule "submodules/bpf-perf-tools-book"]
+	path = submodules/bpf-perf-tools-book
+	url = https://github.com/brendangregg/bpf-perf-tools-book.git
