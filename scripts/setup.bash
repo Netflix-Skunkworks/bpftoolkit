@@ -160,7 +160,7 @@ cp submodules/bcc/tools/hardirqs.py submodules/bcc/tools/hardirqs_example.txt pu
 cp submodules/bcc/tools/inject.py submodules/bcc/tools/inject_example.txt pub/kernel/
 cp submodules/bcc/tools/killsnoop.py submodules/bcc/tools/killsnoop_example.txt pub/applications/
 cp submodules/bcc/tools/llcstat.py submodules/bcc/tools/llcstat_example.txt pub/cpu/
-cp submodules/bcc/tools/mdflush.py submodules/bcc/tools/mdflush_example.txt pub/disks/
+cp submodules/bcc/tools/mdflush.py submodules/bcc/tools/mdflush_example.txt pub/disk/
 cp submodules/bcc/tools/memleak.py submodules/bcc/tools/memleak_example.txt pub/memory/
 cp submodules/bcc/tools/mountsnoop.py submodules/bcc/tools/mountsnoop_example.txt pub/filesystems/
 cp submodules/bcc/tools/mysqld_qslower.py submodules/bcc/tools/mysqld_qslower_example.txt pub/applications/
