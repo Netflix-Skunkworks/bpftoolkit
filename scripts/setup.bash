@@ -121,14 +121,14 @@ cp submodules/bpf-perf-tools-book/originals/Ch16_Hypervisors/xenhyper.bt pub/hyp
 
 # BCC
 
-cp submodules/bcc/tools/argdist.py submodules/bcc/tools/argdist_example.txt pub/
+cp submodules/bcc/tools/argdist.py submodules/bcc/tools/argdist_example.txt pub/multi/
 cp submodules/bcc/tools/bashreadline.py submodules/bcc/tools/bashreadline_example.txt pub/languages/
 cp submodules/bcc/tools/bashreadline.py submodules/bcc/tools/bashreadline_example.txt pub/security/
 cp submodules/bcc/tools/biolatency.py submodules/bcc/tools/biolatency_example.txt pub/disk/
 cp submodules/bcc/tools/biosnoop.py submodules/bcc/tools/biosnoop_example.txt pub/disk/
 cp submodules/bcc/tools/biotop.py submodules/bcc/tools/biotop_example.txt pub/disk/
 cp submodules/bcc/tools/bitesize.py submodules/bcc/tools/bitesize_example.txt pub/disk/
-cp submodules/bcc/tools/bpflist.py submodules/bcc/tools/bpflist_example.txt pub/
+cp submodules/bcc/tools/bpflist.py submodules/bcc/tools/bpflist_example.txt pub/multi/
 cp submodules/bcc/tools/btrfsdist.py submodules/bcc/tools/btrfsdist_example.txt pub/filesystems/
 cp submodules/bcc/tools/btrfsslower.py submodules/bcc/tools/btrfsslower_example.txt pub/filesystems/
 cp submodules/bcc/tools/cachestat.py submodules/bcc/tools/cachestat_example.txt pub/memory/
@@ -152,9 +152,9 @@ cp submodules/bcc/tools/ext4slower.py submodules/bcc/tools/ext4slower_example.tx
 cp submodules/bcc/tools/filelife.py submodules/bcc/tools/filelife_example.txt pub/filesystems/
 cp submodules/bcc/tools/fileslower.py submodules/bcc/tools/fileslower_example.txt pub/filesystems/
 cp submodules/bcc/tools/filetop.py submodules/bcc/tools/filetop_example.txt pub/filesystems/
-cp submodules/bcc/tools/funccount.py submodules/bcc/tools/funccount_example.txt pub/
-cp submodules/bcc/tools/funclatency.py submodules/bcc/tools/funclatency_example.txt pub/
-cp submodules/bcc/tools/funcslower.py submodules/bcc/tools/funcslower_example.txt pub/
+cp submodules/bcc/tools/funccount.py submodules/bcc/tools/funccount_example.txt pub/multi/
+cp submodules/bcc/tools/funclatency.py submodules/bcc/tools/funclatency_example.txt pub/multi/
+cp submodules/bcc/tools/funcslower.py submodules/bcc/tools/funcslower_example.txt pub/multi/
 cp submodules/bcc/tools/gethostlatency.py submodules/bcc/tools/gethostlatency_example.txt pub/networking/
 cp submodules/bcc/tools/hardirqs.py submodules/bcc/tools/hardirqs_example.txt pub/cpu/
 cp submodules/bcc/tools/inject.py submodules/bcc/tools/inject_example.txt pub/kernel/
@@ -181,7 +181,7 @@ cp submodules/bcc/tools/sofdsnoop.py submodules/bcc/tools/sofdsnoop_example.txt 
 cp submodules/bcc/tools/softirqs.py submodules/bcc/tools/softirqs_example.txt pub/cpu/
 cp submodules/bcc/tools/solisten.py submodules/bcc/tools/solisten_example.txt pub/cpu/
 cp submodules/bcc/tools/sslsniff.py submodules/bcc/tools/sslsniff_example.txt pub/security/
-cp submodules/bcc/tools/stackcount.py submodules/bcc/tools/stackcount_example.txt pub/
+cp submodules/bcc/tools/stackcount.py submodules/bcc/tools/stackcount_example.txt pub/multi/
 cp submodules/bcc/tools/statsnoop.py submodules/bcc/tools/statsnoop_example.txt pub/filesystems/
 cp submodules/bcc/tools/syncsnoop.py submodules/bcc/tools/syncsnoop_example.txt pub/filesystems/
 cp submodules/bcc/tools/syscount.py submodules/bcc/tools/syscount_example.txt pub/kernel/
@@ -195,8 +195,8 @@ cp submodules/bcc/tools/tcpstates.py submodules/bcc/tools/tcpstates_example.txt 
 cp submodules/bcc/tools/tcpsubnet.py submodules/bcc/tools/tcpsubnet_example.txt pub/networking/
 cp submodules/bcc/tools/tcptop.py submodules/bcc/tools/tcptop_example.txt pub/networking/
 cp submodules/bcc/tools/tcptracer.py submodules/bcc/tools/tcptracer_example.txt pub/networking/
-cp submodules/bcc/tools/tplist.py submodules/bcc/tools/tplist_example.txt pub/
-cp submodules/bcc/tools/trace.py submodules/bcc/tools/trace_example.txt pub/
+cp submodules/bcc/tools/tplist.py submodules/bcc/tools/tplist_example.txt pub/multi/
+cp submodules/bcc/tools/trace.py submodules/bcc/tools/trace_example.txt pub/multi/
 cp submodules/bcc/tools/ttysnoop.py submodules/bcc/tools/ttysnoop_example.txt pub/security/
 cp submodules/bcc/tools/vfscount.py submodules/bcc/tools/vfscount_example.txt pub/filesystems/
 cp submodules/bcc/tools/vfsstat.py submodules/bcc/tools/vfsstat_example.txt pub/filesystems/
