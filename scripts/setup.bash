@@ -179,7 +179,7 @@ cp submodules/bcc/tools/shmsnoop.py submodules/bcc/tools/shmsnoop_example.txt pu
 cp submodules/bcc/tools/slabratetop.py submodules/bcc/tools/slabratetop_example.txt pub/memory/
 cp submodules/bcc/tools/sofdsnoop.py submodules/bcc/tools/sofdsnoop_example.txt pub/networking/
 cp submodules/bcc/tools/softirqs.py submodules/bcc/tools/softirqs_example.txt pub/cpu/
-cp submodules/bcc/tools/solisten.py submodules/bcc/tools/solisten_example.txt pub/cpu/
+cp submodules/bcc/tools/solisten.py submodules/bcc/tools/solisten_example.txt pub/networking/
 cp submodules/bcc/tools/sslsniff.py submodules/bcc/tools/sslsniff_example.txt pub/security/
 cp submodules/bcc/tools/stackcount.py submodules/bcc/tools/stackcount_example.txt pub/multi/
 cp submodules/bcc/tools/statsnoop.py submodules/bcc/tools/statsnoop_example.txt pub/filesystems/
