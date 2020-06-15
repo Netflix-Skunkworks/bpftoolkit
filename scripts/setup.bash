@@ -41,7 +41,7 @@ cp submodules/bpf-perf-tools-book/originals/Ch08_FileSystems/writesync.bt pub/fi
 cp submodules/bpf-perf-tools-book/originals/Ch09_Disks/bioerr.bt pub/disk/
 cp submodules/bpf-perf-tools-book/originals/Ch09_Disks/biolatency-tp.bt pub/disk/
 cp submodules/bpf-perf-tools-book/originals/Ch09_Disks/biopattern.bt pub/disk/
-cp submodules/bpf-perf-tools-book/originals/Ch09_Disks/biostacks.bt pub/disk/
+cp submodules/bpf-perf-tools-book/updated/Ch09_Disks/biostacks.bt pub/disk/
 cp submodules/bpf-perf-tools-book/originals/Ch09_Disks/iosched.bt pub/disk/
 cp submodules/bpf-perf-tools-book/originals/Ch09_Disks/nvmelatency.bt pub/disk/
 cp submodules/bpf-perf-tools-book/originals/Ch09_Disks/scsilatency.bt pub/disk/
@@ -74,11 +74,11 @@ cp submodules/bpf-perf-tools-book/originals/Ch10_Networking/sormem.bt pub/networ
 cp submodules/bpf-perf-tools-book/originals/Ch10_Networking/superping.bt pub/networking/
 cp submodules/bpf-perf-tools-book/originals/Ch10_Networking/tcpaccept-tp.bt pub/networking/
 cp submodules/bpf-perf-tools-book/originals/Ch10_Networking/tcpconnect-tp.bt pub/networking/
-cp submodules/bpf-perf-tools-book/originals/Ch10_Networking/tcplife.bt pub/networking/
+cp submodules/bpf-perf-tools-book/updated/Ch10_Networking/tcplife.bt pub/networking/
 cp submodules/bpf-perf-tools-book/originals/Ch10_Networking/tcpnagle.bt pub/networking/
 cp submodules/bpf-perf-tools-book/originals/Ch10_Networking/tcpsynbl.bt pub/networking/
 cp submodules/bpf-perf-tools-book/originals/Ch10_Networking/tcpwin.bt pub/networking/
-cp submodules/bpf-perf-tools-book/originals/Ch10_Networking/udpconnect.bt pub/networking/
+cp submodules/bpf-perf-tools-book/updated/Ch10_Networking/udpconnect.bt pub/networking/
 cp submodules/bpf-perf-tools-book/originals/Ch11_Security/elfsnoop.bt pub/security/
 cp submodules/bpf-perf-tools-book/originals/Ch11_Security/eperm.bt pub/security/
 cp submodules/bpf-perf-tools-book/originals/Ch11_Security/modsnoop.bt pub/security/
