@@ -209,32 +209,32 @@ cp submodules/bcc/tools/zfsslower.py submodules/bcc/tools/zfsslower_example.txt 
 
 # bpftrace
 
-cp submodules/bpftrace/tools/bashreadline.bt submodules/bpftrace/tools/bashreadline_example.txt pub/languages/
-cp submodules/bpftrace/tools/bashreadline.bt submodules/bpftrace/tools/bashreadline_example.txt pub/security/
-cp submodules/bpftrace/tools/biolatency.bt submodules/bpftrace/tools/biolatency_example.txt pub/disk/
-cp submodules/bpftrace/tools/biosnoop.bt submodules/bpftrace/tools/biosnoop_example.txt pub/disk/
-cp submodules/bpftrace/tools/bitesize.bt submodules/bpftrace/tools/bitesize_example.txt pub/disk/
-cp submodules/bpftrace/tools/capable.bt submodules/bpftrace/tools/capable_example.txt pub/security/
-cp submodules/bpftrace/tools/cpuwalk.bt submodules/bpftrace/tools/cpuwalk_example.txt pub/cpu/
-cp submodules/bpftrace/tools/dcsnoop.bt submodules/bpftrace/tools/dcsnoop_example.txt pub/filesystems/
-cp submodules/bpftrace/tools/execsnoop.bt submodules/bpftrace/tools/execsnoop_example.txt pub/cpu/
-cp submodules/bpftrace/tools/gethostlatency.bt submodules/bpftrace/tools/gethostlatency_example.txt pub/networking/
-cp submodules/bpftrace/tools/killsnoop.bt submodules/bpftrace/tools/killsnoop_example.txt pub/applications/
-cp submodules/bpftrace/tools/loads.bt submodules/bpftrace/tools/loads_example.txt pub/cpu/
-cp submodules/bpftrace/tools/mdflush.bt submodules/bpftrace/tools/mdflush_example.txt pub/disk/
-cp submodules/bpftrace/tools/oomkill.bt submodules/bpftrace/tools/oomkill_example.txt pub/memory/
-cp submodules/bpftrace/tools/opensnoop.bt submodules/bpftrace/tools/opensnoop_example.txt pub/filesystems/
-cp submodules/bpftrace/tools/pidpersec.bt submodules/bpftrace/tools/pidpersec_example.txt pub/cpu/
-cp submodules/bpftrace/tools/runqlat.bt submodules/bpftrace/tools/runqlat_example.txt pub/cpu/
-cp submodules/bpftrace/tools/runqlen.bt submodules/bpftrace/tools/runqlen_example.txt pub/cpu/
-cp submodules/bpftrace/tools/statsnoop.bt submodules/bpftrace/tools/statsnoop_example.txt pub/filesystems/
-cp submodules/bpftrace/tools/syncsnoop.bt submodules/bpftrace/tools/syncsnoop_example.txt pub/filesystems/
-cp submodules/bpftrace/tools/syscount.bt submodules/bpftrace/tools/syscount_example.txt pub/kernel/
-cp submodules/bpftrace/tools/tcpaccept.bt submodules/bpftrace/tools/tcpaccept_example.txt pub/networking/
-cp submodules/bpftrace/tools/tcpconnect.bt submodules/bpftrace/tools/tcpconnect_example.txt pub/networking/
-cp submodules/bpftrace/tools/tcpdrop.bt submodules/bpftrace/tools/tcpdrop_example.txt pub/networking/
-cp submodules/bpftrace/tools/tcpretrans.bt submodules/bpftrace/tools/tcpretrans_example.txt pub/networking/
-cp submodules/bpftrace/tools/vfscount.bt submodules/bpftrace/tools/vfscount_example.txt pub/filesystems/
-cp submodules/bpftrace/tools/vfsstat.bt submodules/bpftrace/tools/vfsstat_example.txt pub/filesystems/
-cp submodules/bpftrace/tools/writeback.bt submodules/bpftrace/tools/writeback_example.txt pub/filesystems/
-cp submodules/bpftrace/tools/xfsdist.bt submodules/bpftrace/tools/xfsdist_example.txt pub/filesystems/
+cp submodules/bpftrace/tools/bashreadline.bt pub/languages/
+cp submodules/bpftrace/tools/bashreadline.bt pub/security/
+cp submodules/bpftrace/tools/biolatency.bt pub/disk/
+cp submodules/bpftrace/tools/biosnoop.bt pub/disk/
+cp submodules/bpftrace/tools/bitesize.bt pub/disk/
+cp submodules/bpftrace/tools/capable.bt pub/security/
+cp submodules/bpftrace/tools/cpuwalk.bt pub/cpu/
+cp submodules/bpftrace/tools/dcsnoop.bt pub/filesystems/
+cp submodules/bpftrace/tools/execsnoop.bt pub/cpu/
+cp submodules/bpftrace/tools/gethostlatency.bt pub/networking/
+cp submodules/bpftrace/tools/killsnoop.bt pub/applications/
+cp submodules/bpftrace/tools/loads.bt pub/cpu/
+cp submodules/bpftrace/tools/mdflush.bt pub/disk/
+cp submodules/bpftrace/tools/oomkill.bt pub/memory/
+cp submodules/bpftrace/tools/opensnoop.bt pub/filesystems/
+cp submodules/bpftrace/tools/pidpersec.bt pub/cpu/
+cp submodules/bpftrace/tools/runqlat.bt pub/cpu/
+cp submodules/bpftrace/tools/runqlen.bt pub/cpu/
+cp submodules/bpftrace/tools/statsnoop.bt pub/filesystems/
+cp submodules/bpftrace/tools/syncsnoop.bt pub/filesystems/
+cp submodules/bpftrace/tools/syscount.bt pub/kernel/
+cp submodules/bpftrace/tools/tcpaccept.bt pub/networking/
+cp submodules/bpftrace/tools/tcpconnect.bt pub/networking/
+cp submodules/bpftrace/tools/tcpdrop.bt pub/networking/
+cp submodules/bpftrace/tools/tcpretrans.bt pub/networking/
+cp submodules/bpftrace/tools/vfscount.bt pub/filesystems/
+cp submodules/bpftrace/tools/vfsstat.bt pub/filesystems/
+cp submodules/bpftrace/tools/writeback.bt pub/filesystems/
+cp submodules/bpftrace/tools/xfsdist.bt pub/filesystems/

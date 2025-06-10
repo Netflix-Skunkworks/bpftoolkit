@@ -1,0 +1,8 @@
+# Ignore all files in pub directory
+pub/*
+pub/**/*
+
+# But keep the directory structure
+!pub/
+!pub/**/
+!pub/**/.keep
